@@ -3,12 +3,10 @@
 
 
 ## 🚀 About Me
-I'm a PHP | Laravel Developer...
+I'm a Software Engineer...
 
 
 ## 🛠 Skills
-PHP, Laravel, JavaScript...
-
-🧠 I'm currently learning Java
+PHP, Laravel,Java, JavaScript...
 
 
